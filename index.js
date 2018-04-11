@@ -37,7 +37,7 @@ class Critical {
                 if (criticalSrc.indexOf('amp_') !== -1) {
 
                     this.config.options.width = 600;
-                    this.config.options.height = 19200;
+                    this.config.options.height = 1920;
 
                 }
 
